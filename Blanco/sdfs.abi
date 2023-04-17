@@ -1,0 +1,21 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "n",
+				"type": "uint256"
+			}
+		],
+		"name": "mystery",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "pure",
+		"type": "function"
+	}
+]
